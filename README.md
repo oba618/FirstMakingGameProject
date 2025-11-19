@@ -5,6 +5,8 @@ Our goal is to finish this project soon.
 you have to read this README.md.
 And do homeworks below.
 
+**_Enjoy making games! It's okay to make mistakes!!_**
+
 ## Homeworks
 
 ### Day 1
@@ -23,7 +25,18 @@ And do homeworks below.
 - Add functions to your file. (Learn and output simple javascript in this assignment.)
 - Commit and Push your changes.
 
-## Out put
+### Day 4
+- We did it! We already learned how to output.
+- You said you wanted to make a 3D game, but I recommend making a 2D game.
+- Here is a sample. This is actually a horror game like MiSide.
+    - [Doki Doki Literature Club!](https://store.steampowered.com/app/698780/Doki_Doki_Literature_Club/)
+- If you don't like this, please tell me.
+- So, I'll use TyranoScript to make 2D game.
+    - [TyranoScript](https://tyrano.jp/sample2/code/)
+- Add senarios to your project.
+- Commit and Push your changes.
+
+## Output
 https://oba618.github.io/FirstMakingGameProject/
 
 ## Members
