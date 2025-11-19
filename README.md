@@ -30,4 +30,4 @@ https://oba618.github.io/FirstMakingGameProject/
 - oba618
 - Kisui19
 - Add your name here
-- Add your name here
+- N. Remina
